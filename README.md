@@ -5,13 +5,13 @@
   <h2>Principais Tecnologias</h2>
   <div align="left">
     <h3 align="center">Dev Web</h3>
-    <img align="center" src="html_icon">
-    <img align="center" src="css_icon">
+    <img align="center" width="30px" height="30px" src="html_icon">
+    <img align="center" width="30px" height="30px" src="css_icon">
   </div>
   <div align="right">
-    <img align="center" src="javascript_icon.png">
-    <img align="center" src="php_icon">
-    <img align="center" src="python_icon">
-    <img align="center" src="c_sharp_icon">
+    <img width="30px" height="30px" align="center" src="javascript_icon.png">
+    <img width="30px" height="30px" align="center" src="php_icon">
+    <img align="center" width="30px" height="30px" src="python_icon">
+    <img align="center" width="30px" height="30px" src="c_sharp_icon">
   </div>
 </div>
