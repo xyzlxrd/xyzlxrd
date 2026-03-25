@@ -2,5 +2,5 @@
 
 <div>
   <h1 align="center">シluiz filipeシ</h1>
-  <p>👋 Tech enthusiast passionate about coding, automation, and data. Working with Python, Javascript and exploring full-stack development. Always learning and building new things!</p>
+  <p>👋 Tech enthusiast passionate about coding, automation, and software development. Working mainly with Java and C#, exploring full-stack development and constantly building new projects.</p>
 </div>
